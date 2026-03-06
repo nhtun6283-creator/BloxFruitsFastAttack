@@ -1,0 +1,2 @@
+# BloxFruitsFastAttack
+android-auto-clicker
